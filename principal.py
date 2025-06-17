@@ -10,3 +10,7 @@ suma = oa.suma(a,b)
 resta = oa.resta(a,b)
 multiplicar = oa.multiplicar(a,b)
 dividir = oa.division(a,b)
+
+mayor = ol.mayor(a,b)
+menor = ol.menor(a,b)
+igual = ol.igual(a,b)
