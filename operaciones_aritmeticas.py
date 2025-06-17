@@ -11,3 +11,4 @@ def multiplicar(a,b):
     return a*b
 def division(a,b):
     print(f"El resultado de la division de {a} / {b} es {a/b}")
+    return a/b
