@@ -14,3 +14,7 @@ dividir = oa.division(a,b)
 mayor = ol.mayor(a,b)
 menor = ol.menor(a,b)
 igual = ol.igual(a,b)
+
+print(f"Es mayor {mayor}")
+print(f"Es menor {menor}")
+print(f"Es igual {igual}")
